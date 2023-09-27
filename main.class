@@ -1,0 +1,8 @@
+public static void main(String[] args) {
+        Student studentJ = new Student();
+
+        System.out.println("Name: " + studentJ.getName());
+        System.out.println("Section: " + studentJ.getSection());
+        System.out.println("Motto: " + studentJ.getMotto());
+}
+}
